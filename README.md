@@ -26,11 +26,13 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-#### ⚡ **WordPress & Web Performance**
+#### ⚡ **WordPress Developer & Elementor Expert**
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
   <img src="https://img.shields.io/badge/W3%20Total%20Cache-0085BA?style=for-the-badge&logo=cachet&logoColor=white" />
 </p>
+
 
 #### 🔗 **Blockchain & Cloud Computing**
 <p>
@@ -63,9 +65,8 @@
 
 ### 🌍 **Let's Connect!**  
 🌐 **Portfolio**: _Coming Soon_  
-📧 **Email**: _[Your Email Here]_  
-💼 **LinkedIn**: [_Your LinkedIn Here_](#)  
-🐦 **Twitter**: [_Your Twitter Here_](#)  
+💼 **LinkedIn**: _www.linkedin.com/in/ahmadkarim1_  
+ 
 
 ---
 

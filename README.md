@@ -26,13 +26,13 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-#### ⚡ **WordPress Developer & Elementor Expert**
+#### ⚡ **WordPress Developer | Elementor & WooCommerce Expert**
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
   <img src="https://img.shields.io/badge/W3%20Total%20Cache-0085BA?style=for-the-badge&logo=cachet&logoColor=white" />
 </p>
-
 
 #### 🔗 **Blockchain & Cloud Computing**
 <p>

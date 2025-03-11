@@ -65,7 +65,7 @@
 
 ### 🌍 **Let's Connect!**  
 🌐 **Portfolio**: _Coming Soon_  
-💼 **LinkedIn**: _www.linkedin.com/in/ahmadkarim1_  
+
  
 
 ---

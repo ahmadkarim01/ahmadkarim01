@@ -2,10 +2,6 @@
 <h1 align="center">🚀 Ahmad Karim | Front-End Developer</h1>
 <h3 align="center">💻 Crafting Stunning Websites | 🚀 Blockchain & Cloud Enthusiast | 🌍 WordPress Expert</h3>
 
-<p align="center">
-  <img src="https://github.com/ahmadkarim01" width="150" alt="Ahmad Karim">
-</p>
----
 
 ### 🧑‍💻 **About Me**  
 🔹 **Front-End Developer** skilled in **HTML, CSS, JavaScript, React.js & Bootstrap**  

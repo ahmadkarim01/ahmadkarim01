@@ -2,9 +2,6 @@
 <h1 align="center">🚀 Ahmad Karim | Front-End Developer</h1>
 <h3 align="center">💻 Crafting Stunning Websites | 🚀 Blockchain & Cloud Enthusiast | 🌍 WordPress Expert</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Front-End+Developer+|+React.js+|+JavaScript;WordPress+Expert+|+Performance+Optimization;Blockchain+Enthusiast+|+Smart+Contracts;Always+Learning+|+Building+Cool+Things!" />
-</p>
 
 ---
 

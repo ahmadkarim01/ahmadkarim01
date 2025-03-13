@@ -3,7 +3,7 @@
 <h3 align="center">💻 Crafting Stunning Websites | 🚀 Blockchain & Cloud Enthusiast | 🌍 WordPress Expert</h3>
 
 <p align="center">
-  <img src="https://github.com/AhmadKarim.png" width="150" alt="Ahmad Karim">
+  <img src="https://github.com/ahmadkarim01" width="150" alt="Ahmad Karim">
 </p>
 ---
 

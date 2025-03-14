@@ -62,9 +62,8 @@
 🌐 **Portfolio**: _Coming Soon_  
 💼 **LinkedIn**: _www.linkedin.com/in/ahmadkarim1_  
 
- 
-
 ---
 
+⭐ **_"Building user-friendly web solutions & pushing the boundaries of technology!"_** 🚀  
 
 

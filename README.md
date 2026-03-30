@@ -1,12 +1,13 @@
 <!-- Fancy Heading -->
 <h1 align="center">🤖 Ahmad Karim | AI & Front-End Engineer</h1>
-<h3 align="center">💻 AI Enthusiast | 🌐 Full-Stack & Front-End Developer | 🚀 WordPress & Blockchain</h3>
+<h3 align="center">💻 AI Enthusiast | 🌐 Full-Stack Developer | 🚀 WordPress & Blockchain</h3>
 
 ### 🧑‍💻 **About Me**  
-🔹 **AI & ML Practitioner** with hands-on experience in **Python, SQL, and model evaluation**  
+🔹 **AI & ML Practitioner** with hands-on experience in **Python, SQL, and AI model evaluation**  
 🔹 **Front-End Developer** skilled in **HTML, CSS, JavaScript, React.js & Bootstrap**  
 🔹 **WordPress Expert** optimizing & designing high-performance websites  
 🔹 Passionate about **Blockchain, Cloud Computing & AI-powered web applications**  
+🔹 Experienced with cutting-edge **AI tools** like **OpenAI GPT, Claude, DeepSeek, and Cursor**  
 🔹 Love **Open Source**, SaaS Products & turning ideas into reality  
 
 ---
@@ -18,6 +19,10 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT-00BFFF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-FF9900?style=for-the-badge&logo=unknown&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-FF4B00?style=for-the-badge&logo=unknown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-7B68EE?style=for-the-badge&logo=unknown&logoColor=white" />
 </p>
 
 #### 🖥️ **Front-End Development**

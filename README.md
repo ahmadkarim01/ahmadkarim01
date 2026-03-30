@@ -1,14 +1,14 @@
 <!-- Fancy Heading -->
-<h1 align="center">🤖 Ahmad Karim | AI Engineer & Full-Stack Developer</h1>
-<h3 align="center">💻 Dominant AI Engineer | 🌐 Front-End & Full-Stack | 🚀 WordPress, Blockchain & Cloud</h3>
+<h1 align="center">🤖 AI & Full-Stack Engineer</h1>
+<h3 align="center">💻 AI Enthusiast | 🌐 Full-Stack Developer | 🚀 WordPress, Blockchain & Cloud</h3>
 
 ### 🧑‍💻 **About Me**  
-🔹 **Dominant AI Engineer** leveraging **Python, SQL, and AI/ML models** to build intelligent applications  
+🔹 **AI Engineer & Full-Stack Developer** building intelligent, scalable, and high-performance applications  
 🔹 Skilled in **Front-End Development** with **HTML, CSS, JavaScript & React.js**  
-🔹 **WordPress Expert** optimizing high-performance websites with Elementor & WooCommerce  
-🔹 Passionate about **Blockchain, Cloud Computing & AI-powered web solutions**  
-🔹 Experienced with **cutting-edge AI tools**: **OpenAI GPT, Claude, DeepSeek, Cursor**  
-🔹 Love **Open Source**, SaaS Products & turning ideas into reality  
+🔹 **WordPress Expert** creating optimized websites for businesses worldwide  
+🔹 Passionate about **Blockchain, Cloud Computing & AI-powered solutions**  
+🔹 Experienced with cutting-edge **AI tools**: **OpenAI GPT, Claude, DeepSeek, Cursor**  
+🔹 Committed to **delivering professional solutions to international clients**  
 
 ---
 
@@ -59,4 +59,4 @@
 ### 🌍 **Let's Connect!**
 🌐 **Portfolio**: _Coming Soon_  
 💼 **LinkedIn**: _www.linkedin.com/in/ahmadkarim1_  
-📧 **Email**:
+📧 **Email**: _your-email@example.com_

@@ -1,13 +1,13 @@
 <!-- Fancy Heading -->
-<h1 align="center">🤖 Ahmad Karim | AI & Front-End Engineer</h1>
-<h3 align="center">💻 AI Enthusiast | 🌐 Full-Stack Developer | 🚀 WordPress & Blockchain</h3>
+<h1 align="center">🤖 Ahmad Karim | AI Engineer & Full-Stack Developer</h1>
+<h3 align="center">💻 Dominant AI Engineer | 🌐 Front-End & Full-Stack | 🚀 WordPress, Blockchain & Cloud</h3>
 
 ### 🧑‍💻 **About Me**  
-🔹 **AI & ML Practitioner** with hands-on experience in **Python, SQL, and AI model evaluation**  
-🔹 **Front-End Developer** skilled in **HTML, CSS, JavaScript, React.js & Bootstrap**  
-🔹 **WordPress Expert** optimizing & designing high-performance websites  
-🔹 Passionate about **Blockchain, Cloud Computing & AI-powered web applications**  
-🔹 Experienced with cutting-edge **AI tools** like **OpenAI GPT, Claude, DeepSeek, and Cursor**  
+🔹 **Dominant AI Engineer** leveraging **Python, SQL, and AI/ML models** to build intelligent applications  
+🔹 Skilled in **Front-End Development** with **HTML, CSS, JavaScript & React.js**  
+🔹 **WordPress Expert** optimizing high-performance websites with Elementor & WooCommerce  
+🔹 Passionate about **Blockchain, Cloud Computing & AI-powered web solutions**  
+🔹 Experienced with **cutting-edge AI tools**: **OpenAI GPT, Claude, DeepSeek, Cursor**  
 🔹 Love **Open Source**, SaaS Products & turning ideas into reality  
 
 ---
@@ -46,16 +46,6 @@
 
 ---
 
-### 🎯 **Featured Projects**
-🔹 **[AI Sentiment Analyzer](https://github.com/Ahmad-Karim)** - Python & SQL based **AI text analysis**  
-🔹 **[Weather App](https://github.com/Ahmad-Karim/weather-app)** - Real-time weather app using **JS & APIs**  
-🔹 **[Portfolio Website](https://github.com/Ahmad-Karim/website)** - Modern, responsive **personal portfolio**  
-🔹 **[Smart Contracts](https://github.com/Ahmad-Karim/Smart-Contract)** - Solidity-based **blockchain projects**  
-
-📌 **More Projects** → [**GitHub Repositories**](https://github.com/Ahmad-Karim?tab=repositories) 🚀  
-
----
-
 ### 📊 **GitHub Stats & Activity**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Karim&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -69,4 +59,4 @@
 ### 🌍 **Let's Connect!**
 🌐 **Portfolio**: _Coming Soon_  
 💼 **LinkedIn**: _www.linkedin.com/in/ahmadkarim1_  
-📧 **Email**: _your-email@example.com_
+📧 **Email**:

@@ -1,6 +1,6 @@
 <!-- Fancy Heading -->
 <h1 align="center">🤖 AI & Full-Stack Engineer</h1>
-<h3 align="center">💻 AI Enthusiast | 🌐 Full-Stack Developer | 🚀 WordPress, Blockchain & Cloud</h3>
+<h3 align="center">💻 AI Engineer | 🌐 Full-Stack Developer | 🚀 WordPress, Blockchain & Cloud</h3>
 
 ### 🧑‍💻 **About Me**  
 🔹 **AI Engineer & Full-Stack Developer** building intelligent, scalable, and high-performance applications  
